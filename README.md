@@ -2,7 +2,7 @@
 
 Notebook extracts Sentinel II images, shown left and produces Chl-a concentration prediction, shown right
 
-![](/Hydropatrol_visualization.png)
+![](/hydropatrol_visualization.jpeg)
 
 
 
