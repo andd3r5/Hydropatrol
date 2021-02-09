@@ -1,4 +1,11 @@
 # Hydropatrol
+
+Notebook extracts Sentinel II images, shown left and produces Chl-a concentration prediction, shown right
+
+![](/Hydropatrol_visualization.png)
+
+
+
 Jupyter notebook with pipeline for processing sentinel 2 images, showing 
 1. CI algorithm, reference: https://oceancolor.gsfc.nasa.gov/atbd/chlor_a/#sec_3
 2. True color of satellite (BRG)
