@@ -1,4 +1,4 @@
-# hydropatrolChla
+# Hydropatrol
 Jupyter notebook with pipeline for processing sentinel 2 images, showing 
 1. CI algorithm, reference: https://oceancolor.gsfc.nasa.gov/atbd/chlor_a/#sec_3
 2. True color of satellite (BRG)
